@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Registrate en Agile Innova Academy',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Al ingresar a nuestra comunidad de Agile Innova Academy quedarás inscrito oficialmente al Explorer Course y podrás acceder a nuestro canal oficial de Slack
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Estudia el contenido del Explorer Course',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Prepara y estudia el contenido del Explorer Course de manera autónoma e ingresa a los "Live Workshops" semanales con nuestros Agiler Experts
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Realiza el Explorer Challenge',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Al registrarte en Agile Innova Academy vas a tener acceso al "Explorer Challenge", en este evaluamos los conceptos que aprendiste en el curso y es tu carta de entrada para GANARTE una BECA en nuestra Academia.
       </>
     ),
   },

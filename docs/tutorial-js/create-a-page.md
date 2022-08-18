@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Fundamentos de algoritmos con **JavaScript**
 
-<iframe src="https://www.youtube.com/watch?v=_QyiYXgpkHg&list=PLCJVwfWFCVisAhNnrgxbXFyBHU7zuNlJZ&index=1&t=501s&ab_channel=AgileInnova)" width="700" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Clase 01 Introducci&oacute;n JS"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_QyiYXgpkHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ¿Qué es un algoritmo?
 >Un algoritmo es una secuencia de pasos lógicos y ordenados con las cuales le damos solución a un problema determinado.
