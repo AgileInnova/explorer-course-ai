@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Bienvenido al Explorer Course',
   tagline: 'Curso introductorio a los fundamentos de desarrollo web',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://62fe9f279194410082509168--cool-kheer-7d8aca.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
