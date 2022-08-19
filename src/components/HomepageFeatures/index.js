@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
@@ -11,6 +12,7 @@ const FeatureList = [
         Al ingresar a nuestra comunidad de Agile Innova Academy quedarás inscrito oficialmente al Explorer Course y podrás acceder a nuestro canal oficial de Slack
       </>
     ),
+    buttonText: 'APLICA'
   },
   {
     title: 'Estudia el contenido del Explorer Course',
@@ -20,6 +22,7 @@ const FeatureList = [
         Prepara y estudia el contenido del Explorer Course de manera autónoma e ingresa a los "Live Workshops" semanales con nuestros Agiler Experts
       </>
     ),
+    buttonText: '¡COMIENZA YA!'
   },
   {
     title: 'Realiza el Explorer Challenge',
@@ -29,10 +32,11 @@ const FeatureList = [
         Al registrarte en Agile Innova Academy vas a tener acceso al "Explorer Challenge", en este evaluamos los conceptos que aprendiste en el curso y es tu carta de entrada para GANARTE una BECA en nuestra Academia.
       </>
     ),
+    buttonText: 'REALIZAR CHALLENGE'
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, buttonText}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -42,6 +46,13 @@ function Feature({Svg, title, description}) {
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
+      <div className={styles.buttons}>
+          <Link
+            className="button button--success button--lg buttonGreen"
+            to="/docs/intro">
+            { buttonText }
+          </Link>
+        </div>
     </div>
   );
 }

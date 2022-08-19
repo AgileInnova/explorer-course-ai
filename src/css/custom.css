@@ -8,24 +8,73 @@
 /* 00A7D3 */
 :root {
   --ifm-color-primary: #00A7D3;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary-dark: #0096be;
+  --ifm-color-primary-darker: #008eb3;
+  --ifm-color-primary-darkest: #007594;
+  --ifm-color-primary-light: #00b8e8;
+  --ifm-color-primary-lighter: #00c0f3;
+  --ifm-color-primary-lightest: #13ceff;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #00a7d3;
+  --ifm-color-primary-dark: #0096be;
+  --ifm-color-primary-darker: #008eb3;
+  --ifm-color-primary-darkest: #007594;
+  --ifm-color-primary-light: #00b8e8;
+  --ifm-color-primary-lighter: #00c0f3;
+  --ifm-color-primary-lightest: #13ceff;
+}
+
+/* Fuente Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+/* Fuente Now */
+@font-face {
+    font-family: "Now";
+    src: url('./NowFont/Now-Regular.woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Now";
+    src: url('./NowFont/Now-Bold.woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Now";
+    src: url('./NowFont/Now-Medium.woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Now";
+    src: url('./NowFont/Now-Light.woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+html, body, button, h1, h2, h3, h4, h5, h6, a, span {
+  font-family: "Now";
+}
+
+.nav {
+  font-family: "Open Sans";
+}
+
+.buttonGreen {
+  border-radius: 10rem;
+  padding: 0.8rem 3rem;
+  background-color: #32ce66;
+  border: none;
+}
+.buttonGreen:hover {
+  background-color: #00b43e;
 }

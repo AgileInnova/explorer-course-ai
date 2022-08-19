@@ -14,9 +14,10 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <img src='https://res.cloudinary.com/dpkaiokho/image/upload/v1658524791/Agile%20Innova/imageonline-co-transparentimage_1_eoyy0x.png' alt='chico con una computadora en la mano' width={300} />
         <div className={styles.buttons}>
           <Link
-            className="button button--success button--lg"
+            className="button button--success button--lg buttonGreen"
             to="/docs/intro">
             ¡Comienza YA! 🤖
           </Link>
@@ -28,6 +29,7 @@ function HomepageHeader() {
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
+
   return (
     <Layout
       title='Explorer Course'

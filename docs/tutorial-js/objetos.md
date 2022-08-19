@@ -7,10 +7,10 @@ sidebar_position: 9
 Conceptos básicos de los **Objetos**
 
 **Parte 1**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p7GDvLyOknU" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p7GDvLyOknU" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 **Parte 2**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0JGFvNRzauY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0JGFvNRzauY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## Introducción
 Los objetos son un tipo de dato en JavaScript, como lo son number, string, boolean, undefined... Los objetos son en cierta forma diferentes a estos porque permiten agrupar varios datos de forma estructurada.

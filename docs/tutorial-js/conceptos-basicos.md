@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Fundamentos de algoritmos con **JavaScript**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_QyiYXgpkHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_QyiYXgpkHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## ¿Qué es un algoritmo?
 >Un algoritmo es una secuencia de pasos lógicos y ordenados con las cuales le damos solución a un problema determinado.
@@ -322,7 +322,7 @@ JavaScript en su día fue creado para realizar validaciones sobre datos en un fo
 
 ### ¿Dónde colocar el JS?
 
->Puedes colocar codigo js en dos partes, la primera es incrustar el script en el html con la etiqueta `<script>`
+>Puedes colocar codigo js en dos partes, la primera es incrustar el script en el  con la etiqueta `<script>`
 
 ***Ejemplo***
 ~~~
