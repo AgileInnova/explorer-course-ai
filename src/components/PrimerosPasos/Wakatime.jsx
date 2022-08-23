@@ -80,7 +80,7 @@ export default function Wakatime() {
           }}
         >
           <img
-            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661290609/Agile%20Innova/explorer-course/Wakatime/3-copiar-key_gevrr1.gif"
+            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661292159/Agile%20Innova/explorer-course/Wakatime/3-copiar-key_tuvofk.gif"
             alt="..."
             style={{ marginBottom: "20px" }}
           />
