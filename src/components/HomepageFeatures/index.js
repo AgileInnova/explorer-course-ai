@@ -1,44 +1,52 @@
-import React from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.css';
-import Link from '@docusaurus/Link';
+import React from "react";
+import clsx from "clsx";
+import styles from "./styles.module.css";
+import Link from "@docusaurus/Link";
 
 const FeatureList = [
   {
-    title: 'Registrate en Agile Innova Academy',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: "Registrate en Agile Innova Academy",
+    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        Al ingresar a nuestra comunidad de Agile Innova Academy quedarás inscrito oficialmente al Explorer Course y podrás acceder a nuestro canal oficial de Slack
+        Al ingresar a nuestra comunidad de Agile Innova Academy quedarás
+        inscrito oficialmente al Explorer Course y podrás acceder a nuestro
+        canal oficial de Slack
       </>
     ),
-    buttonText: 'APLICA'
+    buttonText: "APLICA",
+    btnUrl: "https://academy.agileinnova.org/",
   },
   {
-    title: 'Estudia el contenido del Explorer Course',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: "Estudia el contenido del Explorer Course",
+    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        Prepara y estudia el contenido del Explorer Course de manera autónoma e ingresa a los "Live Workshops" semanales con nuestros Agiler Experts
+        Prepara y estudia el contenido del Explorer Course de manera autónoma e
+        ingresa a los "Live Workshops" semanales con nuestros Agiler Experts
       </>
     ),
-    buttonText: '¡COMIENZA YA!'
+    buttonText: "¡COMIENZA YA!",
+    btnUrl: "/docs/intro",
   },
   {
-    title: 'Realiza el Explorer Challenge',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: "Realiza el Explorer Challenge",
+    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        Al registrarte en Agile Innova Academy vas a tener acceso al "Explorer Challenge", en este evaluamos los conceptos que aprendiste en el curso y es tu carta de entrada para GANARTE una BECA en nuestra Academia.
+        Al registrarte en Agile Innova Academy vas a tener acceso al "Explorer
+        Challenge", en este evaluamos los conceptos que aprendiste en el curso y
+        es tu carta de entrada para GANARTE una BECA en nuestra Academia.
       </>
     ),
-    buttonText: 'REALIZAR CHALLENGE'
+    buttonText: "REALIZAR CHALLENGE",
+    btnUrl: "https://academy.agileinnova.org/",
   },
 ];
 
-function Feature({Svg, title, description, buttonText}) {
+function Feature({ Svg, title, description, buttonText, btnUrl }) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx("col col--4")}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
@@ -47,12 +55,13 @@ function Feature({Svg, title, description, buttonText}) {
         <p>{description}</p>
       </div>
       <div className={styles.buttons}>
-          <Link
-            className="button button--success button--lg buttonGreen"
-            to="/docs/intro">
-            { buttonText }
-          </Link>
-        </div>
+        <Link
+          className="button button--success button--lg buttonGreen"
+          to={btnUrl}
+        >
+          {buttonText}
+        </Link>
+      </div>
     </div>
   );
 }
