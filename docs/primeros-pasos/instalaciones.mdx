@@ -13,6 +13,9 @@ import TabItem from '@theme/TabItem';
 import Vscode from '../../src/components/PrimerosPasos/Vscode';
 import Git from '../../src/components/PrimerosPasos/Git';
 import Wakatime from '../../src/components/PrimerosPasos/Wakatime';
+import NodeJS from '../../src/components/PrimerosPasos/NodeJS';
+
+import Admonition from "@theme/Admonition";
 
 <Tabs>
   <TabItem value="vscode" label="Visual Code" default>
@@ -22,13 +25,21 @@ import Wakatime from '../../src/components/PrimerosPasos/Wakatime';
     <Git />
   </TabItem>
   <TabItem value="github" label="GitHub">
-    GitHub
+    <h2>
+      GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git. Éste permite a los desarrolladores colaborar y realizar cambios en proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso.
+    </h2>
+    <Admonition type="tip" title="Tarea 0.3" icon="💻">
+      <h3>Crear una cuenta en GitHub</h3>
+    </Admonition>
+    <ol>
+      <li><h3><a href="https://github.com/" target={"_blank"} >GitHub</a></h3></li>
+    </ol>
   </TabItem>
   <TabItem value="wakatime" label="Wakatime">
     <Wakatime />
   </TabItem>
   <TabItem value="nodejs" label="NodeJS">
-    This is a banana 🍌
+    <NodeJS />
   </TabItem>
   <TabItem value="figma" label="Figma">
     This is a banana 🍌
