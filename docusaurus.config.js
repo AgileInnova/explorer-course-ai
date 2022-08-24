@@ -9,7 +9,7 @@ const config = {
   title: "Bienvenido al Explorer Course",
   tagline: "Curso introductorio a los fundamentos de desarrollo web",
   url: "https://agileinnova.github.io/",
-  // baseUrl: "explorer-course-ai/", Despliegue con GitHub
+  // baseUrl: "explorer-course-ai/", // Despliegue con GitHub
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

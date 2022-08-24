@@ -41,8 +41,8 @@ export default function NodeJS() {
         </li>
         <li>
           <h3>
-            La primera pantalla exige aceptar la licencia de NodeJS para
-            continuar con la intalación
+            La primera pantalla nos dará una bienvenida, presionamos siguiente o
+            next.
           </h3>
         </li>
         <div
@@ -53,7 +53,140 @@ export default function NodeJS() {
           }}
         >
           <img
-            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661346976/Agile%20Innova/explorer-course/NodeJS/2-aceptar-licencia_t4acfj.png"
+            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661355390/Agile%20Innova/explorer-course/NodeJS/2-next_zz4rgw.png"
+            alt="..."
+            style={{ marginBottom: "20px" }}
+          />
+        </div>
+        <li>
+          <h3>
+            La segunda pantalla exige aceptar la licencia de NodeJS para
+            continuar la instalación
+          </h3>
+        </li>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+          }}
+        >
+          <img
+            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661355390/Agile%20Innova/explorer-course/NodeJS/3-aceptar-licencia_f5g0r0.png"
+            alt="..."
+            style={{ marginBottom: "20px" }}
+          />
+        </div>
+        <li>
+          <h3>
+            La tercera pantalla permite elegir el directorio de instalación.
+          </h3>
+        </li>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+          }}
+        >
+          <img
+            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661355831/Agile%20Innova/explorer-course/NodeJS/4-cambiar-ruta_mlu0pw.png"
+            alt="..."
+            style={{ marginBottom: "20px" }}
+          />
+        </div>
+        <li>
+          <h3>
+            La cuarta pantalla nos muestra que se va a instalar (Se recomienda
+            dejar por defecto)
+          </h3>
+        </li>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+          }}
+        >
+          <img
+            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661355831/Agile%20Innova/explorer-course/NodeJS/5-archivos-instalacion_yla9f0.png"
+            alt="..."
+            style={{ marginBottom: "20px" }}
+          />
+        </div>
+        <li>
+          <h3>
+            La quinta pantalla nos dirá que algunos módulos necesitan estar
+            compilados en C/C++ pero nosotros no nos preocuparemos por eso asi
+            que damos siguiente o next.
+          </h3>
+        </li>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+          }}
+        >
+          <img
+            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661355831/Agile%20Innova/explorer-course/NodeJS/6-modulos_ntenwf.png"
+            alt="..."
+            style={{ marginBottom: "20px" }}
+          />
+        </div>
+        <li>
+          <h3>
+            La sexta pantalla debemos confirmar la instalación presionando en el
+            boton instalar.
+          </h3>
+        </li>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+          }}
+        >
+          <img
+            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661355831/Agile%20Innova/explorer-course/NodeJS/7-confirmar_wp30iw.png"
+            alt="..."
+            style={{ marginBottom: "20px" }}
+          />
+        </div>
+        <li>
+          <h3>
+            Luego de la instalación presionamos el botón finalizar o finish y ya
+            tendriamos instalados node.js.
+          </h3>
+        </li>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+          }}
+        >
+          <img
+            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661357367/Agile%20Innova/explorer-course/NodeJS/8-finish_rjhxpk.png"
+            alt="..."
+            style={{ marginBottom: "20px" }}
+          />
+        </div>
+        <li>
+          <h3>
+            Comprobamos abriendo un CMD y ejecutando (node --version y npm
+            --version)
+          </h3>
+        </li>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+          }}
+        >
+          <img
+            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661357368/Agile%20Innova/explorer-course/NodeJS/9-comprobar-version_ashsbf.gif"
             alt="..."
             style={{ marginBottom: "20px" }}
           />
