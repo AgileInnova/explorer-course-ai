@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexplorer_course=self.webpackChunkexplorer_course||[]).push([[3069],{9742:e=>{e.exports=JSON.parse('{"permalink":"/explorer-course-ai/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
