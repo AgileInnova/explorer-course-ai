@@ -70,7 +70,7 @@ export default function Git() {
           />
         </div>
         <li>
-          <h3>Comprobar la instalación Git</h3>
+          <h3>Comprobar la instalación Git y abre GitBash</h3>
         </li>
         <div
           style={{
@@ -81,6 +81,26 @@ export default function Git() {
         >
           <img
             src="https://static.codepre.com/uploads/1647001058.png"
+            alt="..."
+            style={{ marginBottom: "20px" }}
+          />
+        </div>
+        <li>
+          <h3>
+            Ejecutar los siguientes comandos: <br /> git config --global
+            user.name "NombreCompleto" <br /> git config --global user.email
+            "email@example.com"
+          </h3>
+        </li>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+          }}
+        >
+          <img
+            src="https://res.cloudinary.com/dpkaiokho/image/upload/v1661450756/Agile%20Innova/explorer-course/Git/5-configurar-git_sqld3f.gif"
             alt="..."
             style={{ marginBottom: "20px" }}
           />
