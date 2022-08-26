@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Diseño Responsive
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BeeHAaSPVBs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/BeeHAaSPVBs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 El responsive, o Responsive Web Design (RWD) es un concepto de desarrollo orientado a que los sitios web se vean y comporten correctamente en todos los dispositivos y pantallas.
 

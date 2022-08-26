@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Conceptos básicos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4beX0L7n8t8" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4beX0L7n8t8" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## Cómo funciona la web
 Internet es algo que utilizamos de forma cotidiana ya sea para consultar información, hacer una reserva, comprar entradas, entre otros. ¿Y cómo funciona por dentro? Pues al final de todo son dos ordenadores que se comunican, uno hace de cliente y el otro de servidor.
