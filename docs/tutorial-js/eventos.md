@@ -28,9 +28,9 @@ Parámetros:
 
 - evento: Evento puede ser cualquier evento de JavaScript válido. Los eventos se utilizan sin el prefijo "on", como "clic" en lugar de "onclick" o "mousedown" en lugar de "onmousedown", a continuación veremos varios eventos que podemos utilizar. 
 - listener (función de controlador): Puede ser una función de JavaScript que responde al evento que se produce.
-~~~
+```javascript
 element.addEventListener (event, listener);
-~~~
+```
 ## Eventos
 
 ### click

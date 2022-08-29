@@ -80,7 +80,7 @@ Por ejemplo, para resaltar la sintaxis del código Ruby:
 
 Ejemplo;
 
-|` ```ruby
+|``` `ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html

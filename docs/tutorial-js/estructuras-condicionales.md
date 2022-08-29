@@ -41,18 +41,18 @@ Los condicionales se usan para realizar o no un código en función de una condi
 Se les conoce como "Toma de decisión". Tienen la siguiente forma:
 
 Pseudocódigo
-~~~
+```
 Si <condicion> entonces
     Acción(es)
 Fin si
-~~~
+```
 
 Javascript
-~~~
+```javascript
 if (condicion) {
     //Acción(es)
 }
-~~~
+```
 
 ***Dobles*** 
 
@@ -69,13 +69,13 @@ Fin si
 ~~~
 
 Javascript
-~~~
+```javascript
 if (condicion) {
     //Acción(es)
 } else {
     //Acción(es)
 }
-~~~
+```
 
 ***Múltiples o anidadas***
 
@@ -94,7 +94,7 @@ Fin si
 ~~~
 
 Javascript
-~~~
+```javascript
 if (condicion) {
     //Acción(es)
 } else if (condicion){
@@ -103,7 +103,7 @@ if (condicion) {
     }
     //Acción(es)
 }
-~~~
+```
 
 Es común que se presenten estructuras condicionales anidadas aún más complejas.
 
@@ -130,7 +130,7 @@ Fin segun
 ~~~
 
 Javascript
-~~~
+```javascript
 switch (expresion) {
     case opcion_1:
         //Acción(es)
@@ -147,7 +147,7 @@ switch (expresion) {
     default: 
         //Acción(es)
 }
-~~~
+```
            
 
 # Condicionales Ternarios
@@ -155,8 +155,8 @@ switch (expresion) {
 Es el único operador en JavaScript que tiene tres operandos. Este operador se usa con frecuencia como atajo para la instrucción if. Tiene la siguiente forma: condición ? expr1 : expr2 
 
 Ejemplo
-~~~
+```javascript
     let num = -2;
     num > 0 ? console.log(`El número ${num} es positivo`) : console.log(`El número ${num} es negativo`)
-~~~
+```
 Documentación técnica https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Conditional_Operator

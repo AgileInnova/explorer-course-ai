@@ -27,7 +27,7 @@ Escribir 10
 ~~~
 
 Javascript
-~~~
+```javascript
 console.log(1)
 console.log(2)
 console.log(3)
@@ -38,7 +38,7 @@ console.log(7)
 console.log(8)
 console.log(9)
 console.log(10)
-~~~
+```
 
 Pero con los ciclos podemos resumir esto en dos líneas utilizando un tipo de ciclo como **for** así:
 
@@ -50,11 +50,11 @@ Fin Para
 ~~~
 
 Javascript
-~~~
+```javascript
 for (let i = 1; i <= 10; i++) {
         console.log(i)
 }
-~~~
+```
 
 ### Bucle for
 Tiene la siguiente estructura:
@@ -66,11 +66,11 @@ después irá la configuración del bucle entre paréntesis `()` que tiene 3 par
 
 Al final definimos un bloque de código entre llaves `{}` que se va a ejecutar si se cumple la condición
 
-~~~
+```javascript
 for (let i = 0; i < 20; i++) {
    	console.log('Me encantan los bucles');
 }
-~~~
+```
         
 
 En este ejemplo de código, hacemos aparecer 20 veces en la consola el texto **Me encantan los bucles**. Funciona de la siguiente forma:
@@ -85,11 +85,11 @@ En este ejemplo de código, hacemos aparecer 20 veces en la consola el texto **M
 
 Otro aspecto interesante de los bucles for es que dentro del bloque de código que se repite (el que va entre llaves {}) podemos usar la variable i, por ejemplo:
 
-~~~
+```javascript
 for (let i = 0; i < 20; i++) {
 	console.log('Voy por la vuelta ' + i);
 }  
-~~~
+```
 
 Este ejemplo hará aparecer 20 veces, en la consola, el texto:
 ~~~
@@ -104,7 +104,7 @@ Voy por la vuelta 19
 ### Bucle while 
 Es una estructura que repetirá un proceso durante "N" veces, donde "N" puede ser fijo o variable. Para esto, la instrucción se vale de una condición que es la que debe cumplirse para que se siga ejecutando. Cuando la condición no se cumple, entonces no se ejecuta el proceso. La forma de esta estructura es la siguiente:
 
-~~~
+```javascript
 while ( condicion ) {
 	//Acción 1
 	//Acción 2
@@ -112,12 +112,12 @@ while ( condicion ) {
 	.
 	//Acción N
 }
-~~~
+```
       
 ### Bucle do while
 Esta es una estructura similar en algunas características al while, repite un proceso una cantidad de veces, pero a diferencia del while, esta estructura permite realizar **mínimo una vez** el proceso que esté entre `{}`, ya que la condición se evalúa al final del proceso, mientras que en el while puede ser que nunca llegue a ejecutar el proceso que esté entre `{}` si la condición no se cumple desde un principio. La forma de la estructura es la siguiente:
 
-~~~
+```javascript
 do {
 	//Acción 1
 	//Acción 2
@@ -125,4 +125,4 @@ do {
 	.
 	//Acción N
 } while ( condicion )
-~~~
+```

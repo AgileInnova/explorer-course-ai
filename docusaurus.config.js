@@ -70,7 +70,7 @@ const config = {
             position: "left",
             label: "Explorer Course",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          // { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/AgileInnova",
             label: "GitHub",
@@ -130,10 +130,10 @@ const config = {
           {
             title: "More",
             items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
+              // {
+              //   label: "Blog",
+              //   to: "/blog",
+              // },
               {
                 label: "GitHub",
                 href: "https://github.com/AgileInnova",

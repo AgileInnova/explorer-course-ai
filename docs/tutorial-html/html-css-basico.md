@@ -132,8 +132,9 @@ secundario, pero todavía hay veces en los que vas a querer forzar una línea nu
 ```html
    <h3>¡Súmate a nuestra Academia <br> de talentos Geek!</h3>
  ```
- ``` Resultado
-    ¡Súmate a nuestra Academia 
+ 
+ ``` resultado
+    ¡Súmate a nuestra Academia
     de talentos Geek!
   ```
 

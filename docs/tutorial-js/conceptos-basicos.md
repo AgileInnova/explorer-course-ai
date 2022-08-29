@@ -81,15 +81,15 @@ Los datos son una parte muy importante en un algoritmo, pues son ellos el punto 
 
 ***Variables***
 >En programación, las variables son espacios reservados en la memoria que, como su nombre indica, pueden cambiar de contenido a lo largo de la ejecución de un programa, en ellas almacenamos algún tipo de dato. Por ahora, sin entrar a mucho detalle, entendamos que cuando ponemos la palabra reservada `let` al inicio nos estamos refiriendo a una variable. 
-~~~
+```javascript
 let carro = "Mazda"
-~~~
+```
 
 ***Constantes***
 >Una constante es un valor que no puede ser alterado/modificado durante la ejecución de un programa, únicamente puede ser leído. 
-~~~
+```javascript
 const pi = 3.1415;
-~~~
+```
 
 ### Tipos de datos
 
@@ -97,40 +97,40 @@ Un valor en JavaScript siempre pertenece a un tipo de dato determinado. Podemos 
 
 ***Numéricas***
 >Una variable numerica como su nombre lo indica, se utiliza para almacenar números enteros y/o decimales, para este ultimo solo necesitas agregar el punto (.) entre los números enteros, esto es debido a que en los lenguajes de programación, la coma (,) se usa para añadir otros datos a la variable (separar elementos).
-~~~
+```javascript
 let suma = 1;
-~~~
+```
 
 ***Cadena de texto o Strings***
 >Este tipo de variables almacena texto, el texto lo debes poner entre comillas simples o comillas dobles.
-~~~
+```javascript
 let palabra = "Hello word";
-~~~
+```
 
 ***Booleana***
 >Tambien es conocida como variable tipo "Bandera o semaforo" ya que almacena un valor lógico, para representar lo verdadero o falso, en la programación se coloca "true" o "false".
-~~~
+```javascript
 let cumple = true;
 let noCumple = false;
-~~~
+```
 
 ***Arreglos o Arrays***
 >Es una variable en donde puedes almacenar más de un elemento, por ejemplo tener varios strings en una sola variable. Para definir un array se deben usar los corchetes ([ ]) y dentro de estos colocar cada elemento separado por comas (,). Cada elemento almacenado en el array tiene una posición comenzando desde el 0 hasta la cantidad de elementos almacenado, asi que para acceder a un elemento especifico solo debes llamar esa posición. Puedes buscar más información sobre este tipo de datos en esta pagina: [Arreglos](https://www.w3schools.com/js/js_arrays.asp)
-~~~
+```javascript
 let animales = ["perro", "gato", "conejo"];
 animales[0] = "perro"
 animales[1] = "gato"
 animales[2] = "conejo"
-~~~
+```
 
 ***Objetos***
 >Asi como los arrays, en las variables tipo objeto tambien se puede almacenar más de un elemento, solo que para definir un objeto se deben usar llaves ({ }) y dentro de estas colocar cada una de las propiedas con su respectivo valor. Para acceder a una propiedad especifica solo tienes que usar la notación de punto. Puedes buscar más información sobre este tipo de datos en esta pagina: [Objetos](https://www.w3schools.com/js/js_objects.asp)
-~~~
+```javascript
 let usuario = { nombre: "Pepito",
                 apellido: "Perez" };
 usuario.nombre = "Pepito";
 usuario.apellido = "Perez"
-~~~
+```
 
 **null y undefined**
 
@@ -141,22 +141,23 @@ null y undefined son dos tipos de datos primitivos existentes en JS, a menudo se
 - null y undefined son valores falsos.
 - null y undefined son ambos primitivos.
 
-~~~
+```javascript
 let numero; 
 console.log(numero); // undefined
 numero = null;
 console.log(numero); // null
 numero = 6;
 console.log(numero); // 6
-~~~
+```
 
 **Function**
 
 En JS las funciones también son otro tipo de dato, por eso podemos almacenarlas por ejemplo en una constante o variable. 
-~~~
+```javascript
+
 const sumar = (a,b) => a+b
 console.log(typeof sumar); //function
-~~~
+```
 
 Tambien en JS tenemos tipos de datos como: Symbol y BigInt. Si deseas saber más sobre los tipos de datos en JS puedes consultar los siguientes enlaces: https://es.javascript.info/types , https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures
 
@@ -170,18 +171,18 @@ Tambien en JS tenemos tipos de datos como: Symbol y BigInt. Si deseas saber más
 ***Globales***
 
 >Son variables accesibles desde cualquier lugar de la página, es decir, desde el script donde se han declarado y todos los demás scripts de la página.
-~~~
+```javascript
 let miVariable = "Hello Word";
-~~~
+```
 
 ***Locales***
 
 >Son variables a las que sólo puedes acceder a ellas dentro del lugar donde se declararon, es decir, si la habías declarado en una función solo podrás acceder a ella cuando estes en esa función. 
-~~~
+```javascript
 function miFuncion (){ 
     let miVariable = "Hello Word";
 } 
-~~~
+```
 
 Más información sobre el alcance de las variables [aquí](https://uniwebsidad.com/libros/javascript/capitulo-4/ambito-de-las-variables)
 
@@ -325,28 +326,34 @@ JavaScript en su día fue creado para realizar validaciones sobre datos en un fo
 >Puedes colocar codigo js en dos partes, la primera es incrustar el script en el  con la etiqueta `<script>`
 
 ***Ejemplo***
-~~~
+```javascript
 <script>
 var nombre = 'Pepito';
 console.log('Hola' + nombre + '¿Cómo estás?');
 </script>
-~~~
+```
 
 >Tambien puedes referenciar el archivo JS a tu HTML, esta es la mejor forma de incluir Js en HTML ya que normalmente los archivos js están separados y colocar todo el codigo en el html no es buena practica. 
 
 ***Ejemplo***
-~~~
+```javascript
 <script src="js/myscript.js"></script>
-~~~
+```
 
 ### Comentarios
 
 >Una muy buena practica en la programación es tener tu codigo limpio y bien documentado, esto para que otros programadores puedan leero sin problemas o incluso para que tu "yo" del futuro pueda entender que fue lo que hiciste. Los comentarios te ayudarán a tener organizado el codigo, puedes explicar que es lo que hace una función, para que sirve una variable o cualquier dato relevante para el funcionamiento del programa. En js podemos insertar comentarios de muchas formas, esto no se va a visualizar en la pagina web, pero si quedará dentro del codigo.
 
-- Comentarios de una linea: `//Este es mi comentario`
-- Comentarios de bloque, comienzan con /* y terminan con */: `/* Este es un
-                                                                comentario de bloque
-                                                             */`
+- Comentarios de una linea:
+```javascript 
+//Este es mi comentario
+```
+- Comentarios de bloque, comienzan con `/*` y terminan con `*/`:
+```javascript
+/* Este es un
+  comentario 
+  de bloque */
+```
 
 ### Comandos básicos a usar en JavaScript
 - **let:** Declarar variables limitando su alcance, es decir, que solo están disponibles dentro de todo el bloque de la función donde fueron declaradas.
@@ -379,7 +386,7 @@ Más información sobre la diferencia entre var y let aquí: [Var y let](https:/
 ***Ejemplo***
 
 Imagina que quieres hacer un console.log() saludando a una persona son el nombre "Pepito", para esto tienes dos formas de hacerlo:
-~~~
+```javascript
 let nombre = "Pepito";
 
 //Forma 1
@@ -387,6 +394,6 @@ console.log('Hola' + nombre + '¿Cómo estás?')
 
 //Forma 2
 console.log(`Hola ${nombre} ¿Cómo estás?`)
-~~~
+```
 
 Ambas formas son válidas, pero intenta siempre que puedas utilizar plantillas literales o 'Comillas invertidas' para concatenar variables.

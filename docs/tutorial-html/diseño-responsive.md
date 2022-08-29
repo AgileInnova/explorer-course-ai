@@ -150,6 +150,7 @@ En el ejemplo superior le decimos que aplique unos CSS cuando estemos en una ven
 </body>
 </html>
 ```
+
 ```css
 .box {
     background: red;
@@ -186,7 +187,7 @@ Si no lo tenemos claro los siguientes ejercicios nos va a ayudar a entenderlo me
 ## Viewport
 Aquí es donde entra en juego una etiqueta que la conocíamos por otros motivos pero que ahora tiene un contenido especial: el viewport.
 
-```html 
+```html
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ```
 

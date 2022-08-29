@@ -62,7 +62,8 @@ Como base usaremos un elemento `container` que contiene nuestro grid (como el wr
 ```
 
 ### Colores:
-![](https://storage.googleapis.com/academia-geek-general-bucket/modulo-1/modulo_1_img_52.png)
+![image](https://storage.googleapis.com/academia-geek-general-bucket/modulo-1/modulo_1_img_52.png)
+
 ```Ruby
 $theme-colors: (
   "primary":    $primary,

@@ -19,11 +19,11 @@ Otra de las ventajas de las funciones es que devuelven un valor, es decir, reali
 
 Aquí hay un ejemplo de una función:
 
-~~~
+```javascript
 nombreFuncion() {
   console.log("Hola Mundo");
 }
-~~~
+```
 
 Puedes llamar o invocar esta función usando su nombre seguido de paréntesis, así: `nombreFuncion()`, cada vez que se llame a la función se imprimirá el mensaje `Hola Mundo` en la consola. Todo el código entre las llaves se ejecutará cada vez que se llame a la función.
 
@@ -37,22 +37,22 @@ ES6, lanzado en 2015, añadió muchas características nuevas y potentes al leng
 ### Función sin parámetros
 Son funciones que no tienen parámetros, normalmente se realizan cuando no se necesitan argumentos para la que la función se realice o se utilizan 
 valores externos a la función.
-  ~~~
+```javascript
   function nombreFuncion() {
      //Accion
   }
-  ~~~ 
+```
  
 ### Función con parámetros
 Los parámetros son variables que se introducen en una función cuando se llama. Cuando se define una función, normalmente se define junto con uno o más parámetros. Los valores reales que se introducen (o se "pasan") a una función cuando se la llama se conocen como argumentos. Cuando a una función le debemos enviar varios argumentos debemos de tener cuenta el orden de estos, ya que si los pasamos en diferente orden a como están definidos los parametros de la función posiblemente no tendremos el resultado esperado. 
 
 Esta es una función con dos parámetros, parametro1 y parametro2:
 
-  ~~~
+```javascript
   function funcionPrueba(parametro1, parametro2) {
      console.log(parametro1, parametro2);
   }
-  ~~~
+```
  
 Entonces podemos llamar a **funcionPrueba** así: `funcionPrueba("Hola", "Mundo")`. Hemos pasado dos argumentos de cadena, ***Hola*** y ***Mundo***. Dentro de la función, param1 será igual a la cadena Hola y param2 será igual a la cadena Mundo. Ten en cuenta que podrías volver a llamar a funcionPrueba con argumentos diferentes y los parámetros tomarían el valor de los nuevos argumentos.
  
@@ -79,35 +79,35 @@ Cuando una función se define sin un nombre, la podemos utilizar cuando no neces
 Es una función anónima y la podemos reconocer porque no tiene la palabra reservada `function`, y normalmente antes de las llaves tenemos los simbolos `=>`. Este tipo de función es muy utilizada ya que podemos resumir bastante nuestro código, por ejemplo, podemos realizar funciones flecha con las siguientes estructuras: 
 
  Forma común
- ~~~
+```javascript
  const nombreFuncion = (param1,param2,paramN) => {
      //Acción
      //Acción
  }
- ~~~
+```
   
  Si sólo necesitamos un parámetro en nuestra función podemos quitar los paréntesis
- ~~~
+```javascript
   const nombreFuncion = parametro => {
      //Accion1
      //Accion2
   }
- ~~~
+```
   
 Si el contenido de la función ocupa solo una línea de código no necesitamos poner `return` y no tiene que estar entre llaves
-~~~
+```javascript
   const nombreFuncion = (param1,param2) => param1+param2
-~~~
+```
   
 También podemos combinar las dos anteriores así:
-~~~
+```javascript
   const nombreFuncion = param1 => param1 * 2
-~~~
+```
 
 Si quisieramos realizar una función flecha sin parámetos
-~~~
+```javascript
   const nombreFuncion = () => console.log('Hola mundo')
-~~~
+```
   
 Reforcemos con un ejemplo de función flecha lo más simplificado posible:
 
@@ -117,7 +117,7 @@ Reforcemos con un ejemplo de función flecha lo más simplificado posible:
 
 ### Asignar la función a una variable
   
-<p align="center"><img src="https://github.com/LeisyVasquez/EcoCol/blob/main/Asignar%20funcion.PNG"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/LeisyVasquez/EcoCol/main/Asignar%20funcion.PNG"/></p>
 
 En el ejemplo anterior se puede evidenciar que la función `calcularPromedio` la estamos guardando en la constante `calcular`, luego al llamar la función lo podemos hacer utilizando `calcular` o `calcularPromedio` ya que son una copia exacta y harían lo mismo.
 
