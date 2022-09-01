@@ -20,6 +20,17 @@ export default function Hello() {
   return (
     <Layout title="Live Workshops" description="workshop React Page">
       <div
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          height: "50vh",
+          fontSize: "20px",
+        }}
+      >
+        <p>Component Live Workshops</p>
+      </div>
+      {/* <div
       // style={{
       //   display: "flex",
       //   justifyContent: "center",
@@ -67,7 +78,7 @@ export default function Hello() {
           endAccessor="end"
           style={{ height: 500 }}
         />
-      </div>
+      </div> */}
     </Layout>
   );
 }
