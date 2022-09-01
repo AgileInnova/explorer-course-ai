@@ -14,11 +14,11 @@ Este material de estudio autodidáctica te va a ser útil para resolver nuestro 
 
 # 📚 Contenido del curso:
 
-**[_Prework._](/docs/category/prework)** Conceptos Esenciales
+**[_Prework._](./primeros-pasos/instalaciones.mdx)** Conceptos Esenciales
 
-**[_JavaScript._](/docs/category/javascript)** Fundamentos de programación haciendo uso del lenguaje de programación JavaScript
+**[_JavaScript._](./tutorial-js/conceptos-basicos.md)** Fundamentos de programación haciendo uso del lenguaje de programación JavaScript
 
-**[_HTML y CSS._](/docs/category/html---css)** Diseño Web, Maquetación de páginas y productos web haciendo uso de HTML y CSS
+**[_HTML y CSS._](./tutorial-html/conceptos-basicos.md)** Diseño Web, Maquetación de páginas y productos web haciendo uso de HTML y CSS
 
 
 # 📝 Homeworks
