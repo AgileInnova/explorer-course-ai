@@ -1,7 +1,8 @@
 {
-  "label": "Primeros Pasos",
+  "label": "Prework",
   "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Conocimientos basicos para dejar todo tu entorno de desarrollo listo para programar"
   }
 }

@@ -1,40 +1,37 @@
 ---
 sidebar_position: 1
+title: 👋🏼 Bienvenid@
 ---
-
-# Introducción
-Este repositorio es destinado a profundizar en los conceptos de JavaScript, sus nuevos elementos y usos, esta unidad es complementaria a los demás conceptos básicos. 
-
-## 👋🏼 Bienvenid@ al contenido público del Explorer Course 
+# 👋🏼 Bienvenid@ al contenido público del Explorer Course 
 
 <h3 align="center"><strong>¡Bienvenido a nuestro Explorer Course 😊,  desde Agile Innova Academy estamos muy a gusto en que seas parte de nuestra comunidad Agilers !</strong></h3>
 
-## 🎯 Objetivo del curso:
+# 🎯 Objetivo del curso:
 
 En este curso, vas a encontrar documentación técnica y videos que te van a servir para adquirir los conocimientos esenciales en el desarrollo de aplicaciones web haciendo uso de **HTML, CSS y Javascript**, cada unidad tiene **Documentación** -   📓   y    **Videos**  -   📺 .
 
 Este material de estudio autodidáctica te va a ser útil para resolver nuestro **Explorer Challenge** 
 
-## 📚 Contenido del curso:
+# 📚 Contenido del curso:
 
-**[_Prework._](https://github.com/academia-geek/Classroom-Aprendices-Geek-Frontend/tree/master/Modulo-0)** Conceptos Esenciales
+**[_Prework._](category/prework)** Conceptos Esenciales
 
-**[_JavaScript._](https://github.com/academia-geek/Classroom-Aprendices-Geek-Frontend/tree/master/Modulo-1)** Fundamentos de programación haciendo uso del lenguaje de programación JavaScript
+**[_JavaScript._](category/javascript)** Fundamentos de programación haciendo uso del lenguaje de programación JavaScript
 
-**[_HTML y CSS._](https://github.com/academia-geek/Classroom-Aprendices-Geek-Frontend/tree/master/Modulo-2)** Diseño Web, Maquetación de páginas y productos web haciendo uso de HTML y CSS
+**[_HTML y CSS._](category/html---css)** Diseño Web, Maquetación de páginas y productos web haciendo uso de HTML y CSS
 
 
-## 📝 Homeworks
+# 📝 Homeworks
 
 En el contenido del curso vas a encontrar **Homeworks** con el fin de poner en práctica los conceptos que se van explicando en cada unidad son ejercicios de **práctica y profundización** para prepararte antes de presentar tu **Explorer Challenge**, para acompañarte en el desarrollo de estas actividades prácticas vamos a tener unos **Live Workshops** sesiones sincrónicas virtuales lideradas por **Agil Expert**.
 
-### 🎖 Explorer Challenge
+## 🎖 Explorer Challenge
 
 Para **Agile Innova Academy** es muy importante que puedas sustentar que posees los **conocimientos esenciales en programación** haciendo uso de JavaScript y **nociones de maquetación y diseño web** con HTML y CSS. 
 
 Para cumplir con esto diseñamos nuestro **Explorer Challenge**, al cual vas a poder acceder registrándote en nuestra **plataforma de Agile Innova Academy** y el cual debes presentar para continuar en la oferta de nuestros cursos especializados y/o aplicar a nuestras becas.
 
-## ✅ ¿ Cómo crear `Issues` para realizar tus entregas ?
+# ✅ ¿ Cómo crear `Issues` para realizar tus entregas ?
 
 Para la mayoría de sus asignaciones (entregas) , creará `Issues` en GitHub.
 
