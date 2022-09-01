@@ -92,15 +92,15 @@ const config = {
               },
               {
                 label: "Prework",
-                to: "/docs/category/prework",
+                to: "/docs/category/-prework",
               },
               {
                 label: "JavaScript",
-                to: "/docs/category/javascript",
+                to: "/docs/category/-javascript",
               },
               {
                 label: "HTML - CSS",
-                to: "/docs/category/html---css",
+                to: "/docs/category/-html---css",
               },
             ],
           },
