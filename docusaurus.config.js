@@ -71,8 +71,10 @@ const config = {
             label: "Explorer Course",
           },
           // { to: "/blog", label: "Blog", position: "left" },
+          { to: "/workshops", label: "Live Workshops", position: "left" },
+          { to: "/challenge", label: "Explorer Challenge", position: "left" },
           {
-            href: "https://github.com/AgileInnova",
+            href: "https://github.com/Agile-Innova-Academy/explorer-course",
             label: "GitHub",
             position: "right",
           },
