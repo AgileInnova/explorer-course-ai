@@ -91,8 +91,8 @@ const config = {
                 to: "/docs/intro",
               },
               {
-                label: "Primeros pasos",
-                to: "/docs/category/primeros-pasos",
+                label: "Prework",
+                to: "/docs/category/prework",
               },
               {
                 label: "JavaScript",
