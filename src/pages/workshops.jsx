@@ -66,11 +66,24 @@ const events = [
  * Componente que renderiza toda la logica y vista para mostar el calendario con sus eventos
  */
 export default function Hello() {
-  const { components } = useMemo(
+
+  // Permite alternar las vistas habilitadas segun el tamaño de la pantalla
+  const view = (window.screen.availWidth > 700) ? {
+    month: true,
+    week: true,
+    day: true,
+    agenda: true
+  } : {
+    day: true,
+    agenda: true
+  }
+
+  const { components, views } = useMemo(
     () => ({
       components: {
         event: Event,
       },
+      views: view
     }),
     []
   );
@@ -86,7 +99,11 @@ export default function Hello() {
 
   return (
     <Layout title="Live Workshops" description="workshop React Page">
-      <div>
+      <div
+        style={{
+          margin: "1rem 2rem"
+        }}
+      >
         <Calendar
           // Define el idioma del calendario 
           culture="es"
@@ -108,11 +125,13 @@ export default function Hello() {
           // Establece la zona horaria y el dia actual
           localizer={localizer}
           // Permite definir una vista por defecto cuando se renderiza por primera vez el componente
-          defaultView="month"
+          defaultView={window.screen.availWidth < 700 ? "day" : "month"}
           // Recibe un array con los eventos
           events={events}
           // Estilos adicionales para el calendario
           style={{ height: 500 }}
+
+          views={views}
         />
       </div>
     </Layout>
