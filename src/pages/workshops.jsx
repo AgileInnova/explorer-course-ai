@@ -1,4 +1,5 @@
-import React, { useCallback } from "react";
+import React, { useCallback, useMemo } from "react";
+import PropTypes from "prop-types";
 import Layout from "@theme/Layout";
 
 import { Calendar, momentLocalizer } from "react-big-calendar";
@@ -12,36 +13,66 @@ moment.locale("es");
 const localizer = momentLocalizer(moment);
 moment.tz.setDefault("America/Bogota");
 
+// This funticon return layout for event
+function Event({ event }) {
+  return (
+    <span style={{ textAlign: "center", width: "100%", display: "block" }}>
+      <strong>{event.title}</strong>
+      <br />
+      <a style={{ color: "#FFF" }} href={event?.url} target="_blank" rel="">
+        Ir a clase
+      </a>
+    </span>
+  );
+}
+Event.propTypes = {
+  event: PropTypes.object,
+};
+
+// Formats of events on calendar
+const events = [
+  {
+    id: 0,
+    title: "HTML Meeting",
+    start: new Date(2022, 8, 29, 14),
+    end: new Date(2022, 8, 29, 17),
+    resourceId: 1,
+    url: "https://academy.agileinnova.org/signin",
+    desc: "Clase de JavaScript",
+  },
+  {
+    id: 0,
+    title: "JS Meeting",
+    start: new Date(2022, 8, 28, 14),
+    end: new Date(2022, 8, 28, 17),
+    resourceId: 1,
+    url: "https://github.com/AgileInnova",
+    desc: "Clase de JavaScript",
+  },
+];
+
 export default function Hello() {
+  const { components } = useMemo(
+    () => ({
+      components: {
+        event: Event,
+      },
+    }),
+    []
+  );
+
+  // Funtion handleClick on event
   const handleSelectEvent = useCallback((event) => {
     console.log(event);
-    // window.alert(event.title)
   }, []);
+
   return (
     <Layout title="Live Workshops" description="workshop React Page">
-      <div
-        style={{
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-          height: "50vh",
-          fontSize: "20px",
-        }}
-      >
-        <p>Component Live Workshops</p>
-      </div>
-      {/* <div
-      // style={{
-      //   display: "flex",
-      //   justifyContent: "center",
-      //   alignItems: "center",
-      //   height: "50vh",
-      //   fontSize: "20px",
-      // }}
-      >
+      <div>
         <Calendar
           culture="es"
           onSelectEvent={handleSelectEvent}
+          components={components}
           messages={{
             week: "Semana",
             work_week: "Semana de trabajo",
@@ -53,32 +84,13 @@ export default function Hello() {
             agenda: "Agenda",
           }}
           localizer={localizer}
-          // view="week"
-          events={[
-            {
-              id: 0,
-              title: "JS Meeting",
-              start: new Date(2022, 7, 29, 14),
-              end: new Date(2022, 7, 29, 17),
-              resourceId: 1,
-              url: "www.google.com",
-              desc: "Clase de JavaScript",
-            },
-            {
-              id: 0,
-              title: "JS Meeting",
-              start: new Date(2022, 7, 30, 14),
-              end: new Date(2022, 7, 30, 17),
-              resourceId: 1,
-              url: "www.google.com",
-              desc: "Clase de JavaScript",
-            },
-          ]}
+          defaultView="month"
+          events={events}
           startAccessor="start"
           endAccessor="end"
           style={{ height: 500 }}
         />
-      </div> */}
+      </div>
     </Layout>
   );
 }
