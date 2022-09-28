@@ -1,0 +1,46 @@
+/* .cardDemo {
+    width: fit-content;
+    position: absolute;
+    right: -15px;
+    top: -80px;
+} */
+
+.cardDemo {
+  width: fit-content;
+  margin-bottom: 10px;
+}
+
+/* .cardStyles {
+    background-color: #2425263c;
+}
+
+.cardStyles:hover {
+    background-color: #242526;
+}
+
+.btnStyle {
+    background-color: #00a7d33c;
+}
+
+.btnStyle:hover {
+    background-color: #00a7d3;
+} */
+
+
+@media (max-width: 995px) and (min-width: 740px) {
+    .cardDemo {
+        position: fixed;
+        right: 2%;
+        top: 18%;
+        z-index: 1;
+    }
+}
+
+@media (min-width: 1280px) {
+    .cardDemo {
+        position: fixed;
+        right: 20%;
+        top: 12%;
+        z-index: 1;
+    }
+}

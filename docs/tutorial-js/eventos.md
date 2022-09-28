@@ -4,6 +4,42 @@ sidebar_position: 6
 
 # Eventos
 
+<div style={{ position: "relative" }}>
+  <div className="card-demo cardDemo">
+    <div className="card" style={{ backgroundColor: "#242526" }}>
+      <div className="card__header">
+        <h3 style={{ color: "#FFF", textAlign: "center" }}>Tareas</h3>
+      </div>
+      <div className="card__body">
+        <a href="https://github.com/Agile-Innova-Academy/explorer-course/tree/main/2.%20Javascript/06-Eventos/Tarea-01" target="_blank">
+          <button
+            className="button button--primary button--block"
+            style={{ marginBottom: "10px" }}
+          >
+            Tarea 1
+          </button>
+        </a>
+         <a href="https://github.com/Agile-Innova-Academy/explorer-course/tree/main/2.%20Javascript/06-Eventos/Tarea-02" target="_blank">
+          <button
+            className="button button--primary button--block"
+            style={{ marginBottom: "10px" }}
+          >
+            Tarea 2
+          </button>
+        </a>
+         <a href="https://github.com/Agile-Innova-Academy/explorer-course/tree/main/2.%20Javascript/06-Eventos/Tarea-03" target="_blank">
+          <button
+            className="button button--primary button--block"
+            style={{ marginBottom: "10px" }}
+          >
+            Tarea 3
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
 ¿Qué son los **Eventos**?
 
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/xVZjsrtOPGg" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>

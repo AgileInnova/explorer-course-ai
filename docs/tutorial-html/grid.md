@@ -4,6 +4,40 @@ sidebar_position: 8
 
 # Grid
 
+<div className="card-demo cardDemo">
+    <div className="card" style={{ backgroundColor: "#242526" }}>
+      <div className="card__header">
+        <h3 style={{ color: "#FFF", textAlign: "center" }}>Tareas</h3>
+      </div>
+      <div className="card__body">
+        <a href="https://github.com/Agile-Innova-Academy/explorer-course/tree/main/3.%20HTML%20y%20CSS/09-Grid/Tarea-1" target="_blank">
+          <button
+            className="button button--primary button--block"
+            style={{ marginBottom: "10px" }}
+          >
+            Tarea 1
+          </button>
+        </a>
+         <a href="https://github.com/Agile-Innova-Academy/explorer-course/tree/main/3.%20HTML%20y%20CSS/09-Grid/Tarea-2" target="_blank">
+          <button
+            className="button button--primary button--block"
+            style={{ marginBottom: "10px" }}
+          >
+            Tarea 2
+          </button>
+        </a>
+         <a href="https://github.com/Agile-Innova-Academy/explorer-course/tree/main/3.%20HTML%20y%20CSS/09-Grid/Tarea-3" target="_blank">
+          <button
+            className="button button--primary button--block"
+            style={{ marginBottom: "10px" }}
+          >
+            Tarea 3
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/dI4cd8HMrLM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## Sistema de Grid
@@ -11,24 +45,24 @@ sidebar_position: 8
 Un sistema de grid o rejilla, nos permite disponer los elementos de una página y que estén alineados. Va a existir una rejilla imaginaria de filas y columnas, a partir de la cual vamos a colocar los elementos de nuestra web. El uso de un sistema de grid tiene sentido si acompaña un diseño que usa también una rejilla.
 
 ## CSS grid
+
 CSS grid es una nueva característica de CSS que permite tener un sistema de grid de forma nativa en CSS. Es una herramienta compleja, así que vamos a ver las bases de cómo poder usarla.
 En primer lugar, existen 2 tipos de elementos, el contenedor del grid y los elementos del grid. En este sentido, es similar a algo que ya conocemos: flexbox.
-Para comenzar, usaremos en el contenedor la propiedad `display:grid` y definiremos las filas y columnas de nuestro grid con `grid-template`. 
+Para comenzar, usaremos en el contenedor la propiedad `display:grid` y definiremos las filas y columnas de nuestro grid con `grid-template`.
 
 ![](https://storage.googleapis.com/academia-geek-general-bucket/modulo-1/modulo_1_img_42.png)
 
-***Contenedor*** El elemento padre contenedor que definirá la cuadrícula o rejilla.
+**_Contenedor_** El elemento padre contenedor que definirá la cuadrícula o rejilla.
 
-***Ítem*** Cada uno de los hijos que contiene la cuadrícula (elemento contenedor).
+**_Ítem_** Cada uno de los hijos que contiene la cuadrícula (elemento contenedor).
 
-***Celda*** (grid cell): Cada uno de los cuadritos (unidad mínima) de la cuadrícula.
+**_Celda_** (grid cell): Cada uno de los cuadritos (unidad mínima) de la cuadrícula.
 
-***Area*** (grid area): Región o conjunto de celdas de la cuadrícula.
+**_Area_** (grid area): Región o conjunto de celdas de la cuadrícula.
 
-***Banda*** (grid track): Banda horizontal o vertical de celdas de la cuadrícula.
+**_Banda_** (grid track): Banda horizontal o vertical de celdas de la cuadrícula.
 
-***Línea*** (grid line): Separador horizontal o vertical de las celdas de la cuadrícula.
-
+**_Línea_** (grid line): Separador horizontal o vertical de las celdas de la cuadrícula.
 
 ```html
 <div class="wrapper">
@@ -40,13 +74,14 @@ Para comenzar, usaremos en el contenedor la propiedad `display:grid` y definirem
   <div class="item item6">6</div>
 </div>
 ```
+
 ```css
-.wrapper{
+.wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 40px 200px 40px;
 }
-.item{
+.item {
   background: deeppink;
   color: white;
   display: flex;
@@ -54,6 +89,7 @@ Para comenzar, usaremos en el contenedor la propiedad `display:grid` y definirem
   align-items: center;
 }
 ```
+
 Ver el ejercicio en [codepen](https://codepen.io/adalab/pen/JMXwbL?editors=1100)
 
 En este grid vamos a tener 4 columnas, cada una de tamaño `1fr`, que es una medida sobre el espacio disponible (free space). Por tanto, se divide el espacio disponible en 4 partes para las columnas. Para las filas, tendremos 3 de 40, 200 y 40px respectivamente.
@@ -61,17 +97,18 @@ A continuación, indicaremos a los elementos si queremos que ocupen una o varias
 
 ```css
 .item1 {
-    grid-column-start: 1;
-    grid-column-end: 4;
+  grid-column-start: 1;
+  grid-column-end: 4;
 }
 ```
+
 Esto indica que se expande desde la primera línea de grid hasta la cuarta, es decir, ocupa las 3 primeras columnas.
 
 Podemos escribir lo anterior de una forma simplificada:
 
 ```css
 .item1 {
-    grid-column: 1 / 4;
+  grid-column: 1 / 4;
 }
 ```
 
@@ -79,8 +116,8 @@ Para las filas funciona exactamente igual:
 
 ```css
 .item3 {
-    grid-row-start: 2;
-    grid-row-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 4;
 }
 ```
 
@@ -95,6 +132,7 @@ Con estas propiedades ya podemos empezar a controlar un poco el comportamiento d
 ![](https://storage.googleapis.com/academia-geek-general-bucket/modulo-1/modulo_1_img_43.png)
 
 El grid que hay debajo es de 2x3, y para definirlo usaríamos:
+
 ```css
 .container {
   display: grid;
@@ -104,12 +142,13 @@ El grid que hay debajo es de 2x3, y para definirlo usaríamos:
 ```
 
 pero si queremos "nombrar los espacios" podemos usar, además, grid-template-areas:
+
 ```css
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-  grid-template-areas: "header header" "main aside" "footer footer"
+  grid-template-areas: "header header" "main aside" "footer footer";
 }
 ```
 

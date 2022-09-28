@@ -4,6 +4,26 @@ sidebar_position: 5
 
 # DOM (Document Object Model)
 
+<div style={{ position: "relative" }}>
+  <div className="card-demo cardDemo">
+    <div className="card" style={{ backgroundColor: "#242526" }}>
+      <div className="card__header">
+        <h3 style={{ color: "#FFF", textAlign: "center" }}>Tareas</h3>
+      </div>
+      <div className="card__body">
+        <a href="https://github.com/Agile-Innova-Academy/explorer-course/tree/main/2.%20Javascript/05-DOM/tarea-1" target="_blank">
+          <button
+            className="button button--primary button--block"
+            style={{ marginBottom: "10px" }}
+          >
+            Tarea 1
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
 Fundamentos del **DOM**
 
 ## ¿ Qué es el DOM ?
