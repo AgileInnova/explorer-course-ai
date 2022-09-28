@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Instalaciones necesarias
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/o8ug9hMEeK0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/o8ug9hMEeK0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 - :link:  [Visual Studio Code](https://code.visualstudio.com/)
 - :link:  [Git](https://git-scm.com/)

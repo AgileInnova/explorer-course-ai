@@ -4,19 +4,19 @@ sidebar_position: 7
 
 # Flex
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/-i768D8BswQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/-i768D8BswQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Ejercicio Parte 1***
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/h9afsOolfCw" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/h9afsOolfCw" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Ejercicio Parte 2***
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/dNClawTDans" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/dNClawTDans" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Ejercicio Parte 3***
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/bYNCOGx2j00" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/bYNCOGx2j00" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Ejercicio Parte 4***
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/by03twuQpfo" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/by03twuQpfo" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 
 Según la MDN, la propiedad Flexible Box, o flexbox, de CSS3 es un modo de diseño que permite colocar los elementos de una página para que se comporten de forma predecible cuando el diseño de la página debe acomodarse a diferentes tamaños de pantalla y diferentes dispositivos.

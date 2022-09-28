@@ -6,9 +6,9 @@ sidebar_position: 3
 
 ¿Qué son **Estructuras Condicionales**?
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/8EctAdlxg0E" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/8EctAdlxg0E" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/P53i_aRZeh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/P53i_aRZeh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 Las estructuras condicionales comparan una variable contra otro(s) valor(es), para que con base al resultado de esta comparación, se siga un curso de acción dentro del programa. Cabe mencionar, que la comparación se puede hacer contra una variable o contra una constante, según se necesite.
 

@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ¿Que son las **Estructuras Secuenciales**?
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/hWGMaQf1pLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/hWGMaQf1pLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## Estructuras Algorítmicas
 

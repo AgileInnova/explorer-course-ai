@@ -10,10 +10,10 @@ sidebar_position: 3
 <iframe  width="100%" height="315" src="https://www.youtube.com/embed/rbUAQzYNTLQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Herencia***
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/LwKzMh3qyL4" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/LwKzMh3qyL4" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Variables - Border - Pseudoclases***
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/fGWmU3C_BhM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/fGWmU3C_BhM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## Profundizando CSS 
 
