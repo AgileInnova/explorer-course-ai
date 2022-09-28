@@ -42,7 +42,7 @@ sidebar_position: 8
 
 Conceptos básicos de los **Arreglos**
 
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/_uSSabzX4M8" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/_uSSabzX4M8" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 Los arrays, también llamados arreglos o listas, nos permiten guardar una lista ordenada de datos en JavaScript, es decir, podemos almacenar varios datos en un solo lugar. Algunos ejemplos: una lista de espera de un hospital, los objetos de una cesta de la compra, los usuarios que han dado like a nuestra foto, etc.
 

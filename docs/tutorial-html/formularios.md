@@ -41,10 +41,10 @@ sidebar_position: 5
 </div>
 
 ***Etiquetas básicas***
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/KBi9FiS9Bmc" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/KBi9FiS9Bmc" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Etiquetas de respuesta***
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/s1lRXozGcQI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/s1lRXozGcQI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 
 ## ¿Para qué sirven los Formularios?

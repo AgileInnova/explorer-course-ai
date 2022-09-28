@@ -41,22 +41,22 @@ sidebar_position: 2
 </div>
 
 ***HTML y CSS básico***
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/oK6GBMqh92g" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/oK6GBMqh92g" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Selectores simples***
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/tqikmSJSOkY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/tqikmSJSOkY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Selectores agrupados***
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/ABKxnX0Tuos" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/ABKxnX0Tuos" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Selectores hijo-hermano***
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/KbOj3VaHLYE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/KbOj3VaHLYE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Tablas***
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/by03twuQpfo" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/by03twuQpfo" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ***Navbar***
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/h9afsOolfCw" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/h9afsOolfCw" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 Hemos visto que las etiquetas HTML nos permiten estructurar nuestra página web y en ella el contenido que se encuentra materializado en dicha página, pero algo importante es que se estructura de acuerdo a su función o carga semántica. Es esencial que profundicemos en etiquetas que nos ayuden a:
 1. Definir nuestra página.

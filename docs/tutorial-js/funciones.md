@@ -42,9 +42,9 @@ sidebar_position: 7
 
 Fundamentos sobre las **Funciones**
 
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/wvsEJXzqHNI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/wvsEJXzqHNI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/pPOvNnWeshQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/pPOvNnWeshQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 
 Una función es un bloque de código que definimos una vez y lo reutilizamos las veces que queramos; un conjunto de instrucciones a las que podemos pasar diferentes datos, luego estos datos se procesan y así la función nos devolverá resultados distintos según sea el resultado del procesamiento.

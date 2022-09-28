@@ -50,7 +50,7 @@ sidebar_position: 4
 
 ¿Que son las **Estructuras Ciclicas**?
 
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/VZKZQnaL_NY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/VZKZQnaL_NY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 
 Sirven para ejecutar un mismo código un número determinado de veces. Por ejemplo, si nos pidierán imprimir los números del 1 al 10 con lo que sabemos hasta el momento lo haríamos así:

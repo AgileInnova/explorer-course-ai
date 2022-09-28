@@ -38,7 +38,7 @@ sidebar_position: 8
     </div>
   </div>
 
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/dI4cd8HMrLM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe className="videos" src="https://www.youtube.com/embed/dI4cd8HMrLM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## Sistema de Grid
 
