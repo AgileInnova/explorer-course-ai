@@ -15,7 +15,7 @@ const FeatureList = [
       </>
     ),
     buttonText: "APLICA",
-    btnUrl: "https://academy.agileinnova.org/",
+    btnUrl: "https://academy.campusvirtual.com.co/",
   },
   {
     title: "Estudia el contenido del Explorer Course",
@@ -40,7 +40,7 @@ const FeatureList = [
       </>
     ),
     buttonText: "REALIZAR CHALLENGE",
-    btnUrl: "https://academy.agileinnova.org/",
+    btnUrl: "https://academy.campusvirtual.com.co/",
   },
 ];
 

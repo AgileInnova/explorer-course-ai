@@ -48,7 +48,7 @@ const events = [
     start: new Date(2022, 8, 29, 14),
     end: new Date(2022, 8, 29, 17),
     resourceId: 1,
-    url: "https://academy.agileinnova.org/signin",
+    url: "https://academy.campusvirtual.com.co/signin",
     desc: "Clase de JavaScript",
   },
   {
