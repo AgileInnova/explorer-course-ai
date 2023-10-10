@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-html/unidades-posicionamiento",
+  "id": "tutorial-html/unidades-posicionamiento",
+  "title": "Unidades y posicionamiento",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-html/unidades-posicionamiento.md",
+  "sourceDirName": "tutorial-html",
+  "slug": "/tutorial-html/unidades-posicionamiento",
+  "permalink": "/explorer-course-ai/docs/tutorial-html/unidades-posicionamiento",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Formularios",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/formularios"
+  },
+  "next": {
+    "title": "Flex",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/flex"
+  }
+}

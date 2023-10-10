@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-js/arreglos",
+  "id": "tutorial-js/arreglos",
+  "title": "Arreglos",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-js/arreglos.md",
+  "sourceDirName": "tutorial-js",
+  "slug": "/tutorial-js/arreglos",
+  "permalink": "/explorer-course-ai/docs/tutorial-js/arreglos",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Funciones",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/funciones"
+  },
+  "next": {
+    "title": "Objetos",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/objetos"
+  }
+}

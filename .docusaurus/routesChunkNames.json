@@ -1,0 +1,286 @@
+{
+  "/explorer-course-ai/blog-e11": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "21ee8ea3"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "fff156fb"
+  },
+  "/explorer-course-ai/blog/archive-08b": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "21ee8ea3"
+    },
+    "archive": "bdfeb08d"
+  },
+  "/explorer-course-ai/blog/first-blog-post-e54": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "21ee8ea3"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/explorer-course-ai/blog/long-blog-post-ab4": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "21ee8ea3"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/explorer-course-ai/blog/mdx-blog-post-03e": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "21ee8ea3"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/explorer-course-ai/blog/tags-117": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "21ee8ea3"
+    },
+    "sidebar": "814f3328",
+    "tags": "379c53fa"
+  },
+  "/explorer-course-ai/blog/tags/docusaurus-664": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "21ee8ea3"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "9ee55ed0",
+    "listMetadata": "56227f27"
+  },
+  "/explorer-course-ai/blog/tags/facebook-c69": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "21ee8ea3"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "dbb878a0",
+    "listMetadata": "e6752730"
+  },
+  "/explorer-course-ai/blog/tags/hello-cc0": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "21ee8ea3"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "8153de9e",
+    "listMetadata": "a861bdc6"
+  },
+  "/explorer-course-ai/blog/tags/hola-482": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "21ee8ea3"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "5a6c58f8",
+    "listMetadata": "4916768c"
+  },
+  "/explorer-course-ai/blog/welcome-6f3": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "21ee8ea3"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/explorer-course-ai/challenge-d85": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "1d7055e6"
+    },
+    "content": "b70f9544"
+  },
+  "/explorer-course-ai/markdown-page-ffc": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "1d7055e6"
+    },
+    "content": "393be207"
+  },
+  "/explorer-course-ai/workshops-f84": {
+    "__comp": "ac016b1a",
+    "__context": {
+      "plugin": "1d7055e6"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/explorer-course-ai/docs-120": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "cdd4000a"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/explorer-course-ai/docs/category/-html---css-af0": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "e766161b"
+  },
+  "/explorer-course-ai/docs/category/-javascript-580": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "1506a9d8"
+  },
+  "/explorer-course-ai/docs/category/-prework-bff": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f3c70430"
+  },
+  "/explorer-course-ai/docs/intro-238": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/explorer-course-ai/docs/primeros-pasos/-6e1": {
+    "__comp": "17896441",
+    "content": "3bb4f521"
+  },
+  "/explorer-course-ai/docs/primeros-pasos/instalaciones-84d": {
+    "__comp": "17896441",
+    "content": "5d9825d2"
+  },
+  "/explorer-course-ai/docs/primeros-pasos/instrucciones-basicas-git-6cc": {
+    "__comp": "17896441",
+    "content": "f352042d"
+  },
+  "/explorer-course-ai/docs/primeros-pasos/instrucciones-basicas-markdown-d38": {
+    "__comp": "17896441",
+    "content": "2b66f4d9"
+  },
+  "/explorer-course-ai/docs/tutorial-html/animaciones-5ee": {
+    "__comp": "17896441",
+    "content": "72d1c6cb"
+  },
+  "/explorer-course-ai/docs/tutorial-html/bootstrap-a39": {
+    "__comp": "17896441",
+    "content": "389e0853"
+  },
+  "/explorer-course-ai/docs/tutorial-html/conceptos-basicos-023": {
+    "__comp": "17896441",
+    "content": "9e0510ee"
+  },
+  "/explorer-course-ai/docs/tutorial-html/css-basico-576": {
+    "__comp": "17896441",
+    "content": "0d2450ed"
+  },
+  "/explorer-course-ai/docs/tutorial-html/diseño-responsive-3ba": {
+    "__comp": "17896441",
+    "content": "4d1f6b41"
+  },
+  "/explorer-course-ai/docs/tutorial-html/flex-342": {
+    "__comp": "17896441",
+    "content": "c5c550ca"
+  },
+  "/explorer-course-ai/docs/tutorial-html/formularios-0e3": {
+    "__comp": "17896441",
+    "content": "3dd1179b"
+  },
+  "/explorer-course-ai/docs/tutorial-html/grid-95a": {
+    "__comp": "17896441",
+    "content": "8e30be40"
+  },
+  "/explorer-course-ai/docs/tutorial-html/html-css-basico-de3": {
+    "__comp": "17896441",
+    "content": "240a889f"
+  },
+  "/explorer-course-ai/docs/tutorial-html/html-css-intermedio-8be": {
+    "__comp": "17896441",
+    "content": "9d8f3f78"
+  },
+  "/explorer-course-ai/docs/tutorial-html/unidades-posicionamiento-8cd": {
+    "__comp": "17896441",
+    "content": "87261a06"
+  },
+  "/explorer-course-ai/docs/tutorial-js/arreglos-417": {
+    "__comp": "17896441",
+    "content": "af791fe7"
+  },
+  "/explorer-course-ai/docs/tutorial-js/conceptos-basicos-45c": {
+    "__comp": "17896441",
+    "content": "2d906878"
+  },
+  "/explorer-course-ai/docs/tutorial-js/dom-756": {
+    "__comp": "17896441",
+    "content": "9624197b"
+  },
+  "/explorer-course-ai/docs/tutorial-js/estructuras-ciclicas-2a0": {
+    "__comp": "17896441",
+    "content": "83f0f72f"
+  },
+  "/explorer-course-ai/docs/tutorial-js/estructuras-condicionales-b13": {
+    "__comp": "17896441",
+    "content": "b62ba353"
+  },
+  "/explorer-course-ai/docs/tutorial-js/estructuras-secuenciales-e20": {
+    "__comp": "17896441",
+    "content": "07a954ba"
+  },
+  "/explorer-course-ai/docs/tutorial-js/eventos-8c0": {
+    "__comp": "17896441",
+    "content": "44385625"
+  },
+  "/explorer-course-ai/docs/tutorial-js/funciones-74c": {
+    "__comp": "17896441",
+    "content": "2900ac25"
+  },
+  "/explorer-course-ai/docs/tutorial-js/objetos-306": {
+    "__comp": "17896441",
+    "content": "0083c9aa"
+  },
+  "/explorer-course-ai/-0e2": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "1d7055e6"
+    },
+    "config": "5e9f5e1a"
+  }
+}

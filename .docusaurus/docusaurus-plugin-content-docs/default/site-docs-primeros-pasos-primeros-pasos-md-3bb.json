@@ -1,0 +1,26 @@
+{
+  "unversionedId": "primeros-pasos/primeros-pasos",
+  "id": "primeros-pasos/primeros-pasos",
+  "title": "Comandos básicos de Linux",
+  "description": "¿Qué es un terminal?",
+  "source": "@site/docs/primeros-pasos/primeros-pasos.md",
+  "sourceDirName": "primeros-pasos",
+  "slug": "/primeros-pasos/",
+  "permalink": "/explorer-course-ai/docs/primeros-pasos/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Instalaciones Necesarias",
+    "permalink": "/explorer-course-ai/docs/primeros-pasos/instalaciones"
+  },
+  "next": {
+    "title": "Introducción de GIT",
+    "permalink": "/explorer-course-ai/docs/primeros-pasos/instrucciones-basicas-git"
+  }
+}

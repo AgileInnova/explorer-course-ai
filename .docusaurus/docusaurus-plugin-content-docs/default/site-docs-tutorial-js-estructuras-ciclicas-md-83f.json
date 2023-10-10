@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-js/estructuras-ciclicas",
+  "id": "tutorial-js/estructuras-ciclicas",
+  "title": "Estructuras Ciclicas",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-js/estructuras-ciclicas.md",
+  "sourceDirName": "tutorial-js",
+  "slug": "/tutorial-js/estructuras-ciclicas",
+  "permalink": "/explorer-course-ai/docs/tutorial-js/estructuras-ciclicas",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Estructuras Condicionales",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/estructuras-condicionales"
+  },
+  "next": {
+    "title": "DOM (Document Object Model)",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/dom"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-html/flex",
+  "id": "tutorial-html/flex",
+  "title": "Flex",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-html/flex.md",
+  "sourceDirName": "tutorial-html",
+  "slug": "/tutorial-html/flex",
+  "permalink": "/explorer-course-ai/docs/tutorial-html/flex",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unidades y posicionamiento",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/unidades-posicionamiento"
+  },
+  "next": {
+    "title": "Animaciones en CSS",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/animaciones"
+  }
+}

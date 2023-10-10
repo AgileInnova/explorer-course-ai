@@ -1,0 +1,21 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/explorer-course-ai/blog/welcome"
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/explorer-course-ai/blog/mdx-blog-post"
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/explorer-course-ai/blog/long-blog-post"
+    },
+    {
+      "title": "First Blog Post",
+      "permalink": "/explorer-course-ai/blog/first-blog-post"
+    }
+  ]
+}

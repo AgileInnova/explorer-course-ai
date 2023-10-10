@@ -1,0 +1,16 @@
+{
+  "title": "🧑‍💻 Prework",
+  "description": "Conocimientos basicos para dejar todo tu entorno de desarrollo listo para programar",
+  "slug": "/category/-prework",
+  "permalink": "/explorer-course-ai/docs/category/-prework",
+  "navigation": {
+    "previous": {
+      "title": "👋🏼 Bienvenid@",
+      "permalink": "/explorer-course-ai/docs/intro"
+    },
+    "next": {
+      "title": "Instalaciones Necesarias",
+      "permalink": "/explorer-course-ai/docs/primeros-pasos/instalaciones"
+    }
+  }
+}

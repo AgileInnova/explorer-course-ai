@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-js/estructuras-secuenciales",
+  "id": "tutorial-js/estructuras-secuenciales",
+  "title": "Estructuras Secuenciales",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-js/estructuras-secuenciales.md",
+  "sourceDirName": "tutorial-js",
+  "slug": "/tutorial-js/estructuras-secuenciales",
+  "permalink": "/explorer-course-ai/docs/tutorial-js/estructuras-secuenciales",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conceptos Basicos",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/conceptos-basicos"
+  },
+  "next": {
+    "title": "Estructuras Condicionales",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/estructuras-condicionales"
+  }
+}

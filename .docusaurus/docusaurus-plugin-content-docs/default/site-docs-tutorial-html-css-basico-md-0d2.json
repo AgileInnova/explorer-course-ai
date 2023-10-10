@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-html/css-basico",
+  "id": "tutorial-html/css-basico",
+  "title": "CSS Básico",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-html/css-basico.md",
+  "sourceDirName": "tutorial-html",
+  "slug": "/tutorial-html/css-basico",
+  "permalink": "/explorer-course-ai/docs/tutorial-html/css-basico",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTML - CSS básico",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/html-css-basico"
+  },
+  "next": {
+    "title": "HTML - CSS Intermedio",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/html-css-intermedio"
+  }
+}

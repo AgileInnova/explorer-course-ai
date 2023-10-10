@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-js/dom",
+  "id": "tutorial-js/dom",
+  "title": "DOM (Document Object Model)",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-js/dom.md",
+  "sourceDirName": "tutorial-js",
+  "slug": "/tutorial-js/dom",
+  "permalink": "/explorer-course-ai/docs/tutorial-js/dom",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Estructuras Ciclicas",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/estructuras-ciclicas"
+  },
+  "next": {
+    "title": "Eventos",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/eventos"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/explorer-course-ai/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/explorer-course-ai/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/explorer-course-ai/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "primeros-pasos/instalaciones",
+              "path": "/explorer-course-ai/docs/primeros-pasos/instalaciones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "primeros-pasos/instrucciones-basicas-git",
+              "path": "/explorer-course-ai/docs/primeros-pasos/instrucciones-basicas-git",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "primeros-pasos/instrucciones-basicas-markdown",
+              "path": "/explorer-course-ai/docs/primeros-pasos/instrucciones-basicas-markdown",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "primeros-pasos/primeros-pasos",
+              "path": "/explorer-course-ai/docs/primeros-pasos/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-html/animaciones",
+              "path": "/explorer-course-ai/docs/tutorial-html/animaciones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-html/bootstrap",
+              "path": "/explorer-course-ai/docs/tutorial-html/bootstrap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-html/conceptos-basicos",
+              "path": "/explorer-course-ai/docs/tutorial-html/conceptos-basicos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-html/css-basico",
+              "path": "/explorer-course-ai/docs/tutorial-html/css-basico",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-html/diseño-responsive",
+              "path": "/explorer-course-ai/docs/tutorial-html/diseño-responsive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-html/flex",
+              "path": "/explorer-course-ai/docs/tutorial-html/flex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-html/formularios",
+              "path": "/explorer-course-ai/docs/tutorial-html/formularios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-html/grid",
+              "path": "/explorer-course-ai/docs/tutorial-html/grid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-html/html-css-basico",
+              "path": "/explorer-course-ai/docs/tutorial-html/html-css-basico",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-html/html-css-intermedio",
+              "path": "/explorer-course-ai/docs/tutorial-html/html-css-intermedio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-html/unidades-posicionamiento",
+              "path": "/explorer-course-ai/docs/tutorial-html/unidades-posicionamiento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-js/arreglos",
+              "path": "/explorer-course-ai/docs/tutorial-js/arreglos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-js/conceptos-basicos",
+              "path": "/explorer-course-ai/docs/tutorial-js/conceptos-basicos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-js/dom",
+              "path": "/explorer-course-ai/docs/tutorial-js/dom",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-js/estructuras-ciclicas",
+              "path": "/explorer-course-ai/docs/tutorial-js/estructuras-ciclicas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-js/estructuras-condicionales",
+              "path": "/explorer-course-ai/docs/tutorial-js/estructuras-condicionales",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-js/estructuras-secuenciales",
+              "path": "/explorer-course-ai/docs/tutorial-js/estructuras-secuenciales",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-js/eventos",
+              "path": "/explorer-course-ai/docs/tutorial-js/eventos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-js/funciones",
+              "path": "/explorer-course-ai/docs/tutorial-js/funciones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-js/objetos",
+              "path": "/explorer-course-ai/docs/tutorial-js/objetos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-prework",
+              "path": "/explorer-course-ai/docs/category/-prework",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-javascript",
+              "path": "/explorer-course-ai/docs/category/-javascript",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-html---css",
+              "path": "/explorer-course-ai/docs/category/-html---css",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/explorer-course-ai/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

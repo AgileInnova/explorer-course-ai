@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-html/formularios",
+  "id": "tutorial-html/formularios",
+  "title": "Formularios",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-html/formularios.md",
+  "sourceDirName": "tutorial-html",
+  "slug": "/tutorial-html/formularios",
+  "permalink": "/explorer-course-ai/docs/tutorial-html/formularios",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTML - CSS Intermedio",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/html-css-intermedio"
+  },
+  "next": {
+    "title": "Unidades y posicionamiento",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/unidades-posicionamiento"
+  }
+}

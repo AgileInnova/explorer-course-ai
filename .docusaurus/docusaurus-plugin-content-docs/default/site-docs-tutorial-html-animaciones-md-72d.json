@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-html/animaciones",
+  "id": "tutorial-html/animaciones",
+  "title": "Animaciones en CSS",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-html/animaciones.md",
+  "sourceDirName": "tutorial-html",
+  "slug": "/tutorial-html/animaciones",
+  "permalink": "/explorer-course-ai/docs/tutorial-html/animaciones",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flex",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/flex"
+  },
+  "next": {
+    "title": "Grid",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/grid"
+  }
+}

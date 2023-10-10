@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-js/estructuras-condicionales",
+  "id": "tutorial-js/estructuras-condicionales",
+  "title": "Estructuras Condicionales",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-js/estructuras-condicionales.md",
+  "sourceDirName": "tutorial-js",
+  "slug": "/tutorial-js/estructuras-condicionales",
+  "permalink": "/explorer-course-ai/docs/tutorial-js/estructuras-condicionales",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Estructuras Secuenciales",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/estructuras-secuenciales"
+  },
+  "next": {
+    "title": "Estructuras Ciclicas",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/estructuras-ciclicas"
+  }
+}

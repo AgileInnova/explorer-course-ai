@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-html/grid",
+  "id": "tutorial-html/grid",
+  "title": "Grid",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-html/grid.md",
+  "sourceDirName": "tutorial-html",
+  "slug": "/tutorial-html/grid",
+  "permalink": "/explorer-course-ai/docs/tutorial-html/grid",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Animaciones en CSS",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/animaciones"
+  },
+  "next": {
+    "title": "Diseño Responsive",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/diseño-responsive"
+  }
+}

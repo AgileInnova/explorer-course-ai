@@ -1,0 +1,26 @@
+{
+  "unversionedId": "primeros-pasos/instrucciones-basicas-markdown",
+  "id": "primeros-pasos/instrucciones-basicas-markdown",
+  "title": "Instrucciones básicas MarkDown",
+  "description": "¿Qué es Markdown?",
+  "source": "@site/docs/primeros-pasos/instrucciones-basicas-markdown.md",
+  "sourceDirName": "primeros-pasos",
+  "slug": "/primeros-pasos/instrucciones-basicas-markdown",
+  "permalink": "/explorer-course-ai/docs/primeros-pasos/instrucciones-basicas-markdown",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción de GIT",
+    "permalink": "/explorer-course-ai/docs/primeros-pasos/instrucciones-basicas-git"
+  },
+  "next": {
+    "title": "👨‍💻 Javascript",
+    "permalink": "/explorer-course-ai/docs/category/-javascript"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "👨‍💻 Javascript",
+  "description": "Conceptos básicos para aprender JavaScript",
+  "slug": "/category/-javascript",
+  "permalink": "/explorer-course-ai/docs/category/-javascript",
+  "navigation": {
+    "previous": {
+      "title": "Instrucciones básicas MarkDown",
+      "permalink": "/explorer-course-ai/docs/primeros-pasos/instrucciones-basicas-markdown"
+    },
+    "next": {
+      "title": "Conceptos Basicos",
+      "permalink": "/explorer-course-ai/docs/tutorial-js/conceptos-basicos"
+    }
+  }
+}

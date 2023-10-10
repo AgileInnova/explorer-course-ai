@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-js/funciones",
+  "id": "tutorial-js/funciones",
+  "title": "Funciones",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-js/funciones.md",
+  "sourceDirName": "tutorial-js",
+  "slug": "/tutorial-js/funciones",
+  "permalink": "/explorer-course-ai/docs/tutorial-js/funciones",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Eventos",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/eventos"
+  },
+  "next": {
+    "title": "Arreglos",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/arreglos"
+  }
+}

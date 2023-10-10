@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-js/eventos",
+  "id": "tutorial-js/eventos",
+  "title": "Eventos",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-js/eventos.md",
+  "sourceDirName": "tutorial-js",
+  "slug": "/tutorial-js/eventos",
+  "permalink": "/explorer-course-ai/docs/tutorial-js/eventos",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DOM (Document Object Model)",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/dom"
+  },
+  "next": {
+    "title": "Funciones",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/funciones"
+  }
+}

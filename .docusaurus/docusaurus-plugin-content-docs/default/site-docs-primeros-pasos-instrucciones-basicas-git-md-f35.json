@@ -1,0 +1,26 @@
+{
+  "unversionedId": "primeros-pasos/instrucciones-basicas-git",
+  "id": "primeros-pasos/instrucciones-basicas-git",
+  "title": "Introducción de GIT",
+  "description": "GitHub Page",
+  "source": "@site/docs/primeros-pasos/instrucciones-basicas-git.md",
+  "sourceDirName": "primeros-pasos",
+  "slug": "/primeros-pasos/instrucciones-basicas-git",
+  "permalink": "/explorer-course-ai/docs/primeros-pasos/instrucciones-basicas-git",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comandos básicos de Linux",
+    "permalink": "/explorer-course-ai/docs/primeros-pasos/"
+  },
+  "next": {
+    "title": "Instrucciones básicas MarkDown",
+    "permalink": "/explorer-course-ai/docs/primeros-pasos/instrucciones-basicas-markdown"
+  }
+}

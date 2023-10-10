@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-js/conceptos-basicos",
+  "id": "tutorial-js/conceptos-basicos",
+  "title": "Conceptos Basicos",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-js/conceptos-basicos.mdx",
+  "sourceDirName": "tutorial-js",
+  "slug": "/tutorial-js/conceptos-basicos",
+  "permalink": "/explorer-course-ai/docs/tutorial-js/conceptos-basicos",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👨‍💻 Javascript",
+    "permalink": "/explorer-course-ai/docs/category/-javascript"
+  },
+  "next": {
+    "title": "Estructuras Secuenciales",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/estructuras-secuenciales"
+  }
+}

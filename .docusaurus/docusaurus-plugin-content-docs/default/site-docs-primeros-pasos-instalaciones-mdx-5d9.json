@@ -1,0 +1,26 @@
+{
+  "unversionedId": "primeros-pasos/instalaciones",
+  "id": "primeros-pasos/instalaciones",
+  "title": "Instalaciones Necesarias",
+  "description": "Tareas",
+  "source": "@site/docs/primeros-pasos/instalaciones.mdx",
+  "sourceDirName": "primeros-pasos",
+  "slug": "/primeros-pasos/instalaciones",
+  "permalink": "/explorer-course-ai/docs/primeros-pasos/instalaciones",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧑‍💻 Prework",
+    "permalink": "/explorer-course-ai/docs/category/-prework"
+  },
+  "next": {
+    "title": "Comandos básicos de Linux",
+    "permalink": "/explorer-course-ai/docs/primeros-pasos/"
+  }
+}

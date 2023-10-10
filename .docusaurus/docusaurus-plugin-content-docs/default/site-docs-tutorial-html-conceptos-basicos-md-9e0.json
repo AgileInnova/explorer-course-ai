@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-html/conceptos-basicos",
+  "id": "tutorial-html/conceptos-basicos",
+  "title": "Conceptos básicos",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-html/conceptos-basicos.md",
+  "sourceDirName": "tutorial-html",
+  "slug": "/tutorial-html/conceptos-basicos",
+  "permalink": "/explorer-course-ai/docs/tutorial-html/conceptos-basicos",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💻 HTML - CSS",
+    "permalink": "/explorer-course-ai/docs/category/-html---css"
+  },
+  "next": {
+    "title": "HTML - CSS básico",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/html-css-basico"
+  }
+}

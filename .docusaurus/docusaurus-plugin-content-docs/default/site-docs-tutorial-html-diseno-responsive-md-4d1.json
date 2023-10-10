@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-html/diseño-responsive",
+  "id": "tutorial-html/diseño-responsive",
+  "title": "Diseño Responsive",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-html/diseño-responsive.md",
+  "sourceDirName": "tutorial-html",
+  "slug": "/tutorial-html/diseño-responsive",
+  "permalink": "/explorer-course-ai/docs/tutorial-html/diseño-responsive",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Grid",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/grid"
+  },
+  "next": {
+    "title": "Bootstrap",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/bootstrap"
+  }
+}

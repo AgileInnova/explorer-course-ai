@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/explorer-course-ai/challenge",
+  "source": "@site/src/pages/challenge.mdx",
+  "title": "Explorer Challenge",
+  "description": "Challenges for Explorer Course",
+  "frontMatter": {
+    "title": "Explorer Challenge",
+    "description": "Challenges for Explorer Course",
+    "hide_table_of_contents": true
+  }
+}

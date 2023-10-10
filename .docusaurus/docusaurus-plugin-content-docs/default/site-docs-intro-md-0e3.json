@@ -1,0 +1,23 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "👋🏼 Bienvenid@",
+  "description": "¡Bienvenido a nuestro Explorer Course 😊,  desde Agile Innova Academy estamos muy a gusto en que seas parte de nuestra comunidad Agilers !",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/explorer-course-ai/docs/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "👋🏼 Bienvenid@"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "🧑‍💻 Prework",
+    "permalink": "/explorer-course-ai/docs/category/-prework"
+  }
+}

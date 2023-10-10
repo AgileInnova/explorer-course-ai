@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-html/html-css-intermedio",
+  "id": "tutorial-html/html-css-intermedio",
+  "title": "HTML - CSS Intermedio",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-html/html-css-intermedio.md",
+  "sourceDirName": "tutorial-html",
+  "slug": "/tutorial-html/html-css-intermedio",
+  "permalink": "/explorer-course-ai/docs/tutorial-html/html-css-intermedio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CSS Básico",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/css-basico"
+  },
+  "next": {
+    "title": "Formularios",
+    "permalink": "/explorer-course-ai/docs/tutorial-html/formularios"
+  }
+}

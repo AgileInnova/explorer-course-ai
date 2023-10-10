@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-js/objetos",
+  "id": "tutorial-js/objetos",
+  "title": "Objetos",
+  "description": "Tareas",
+  "source": "@site/docs/tutorial-js/objetos.md",
+  "sourceDirName": "tutorial-js",
+  "slug": "/tutorial-js/objetos",
+  "permalink": "/explorer-course-ai/docs/tutorial-js/objetos",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Arreglos",
+    "permalink": "/explorer-course-ai/docs/tutorial-js/arreglos"
+  },
+  "next": {
+    "title": "💻 HTML - CSS",
+    "permalink": "/explorer-course-ai/docs/category/-html---css"
+  }
+}
