@@ -2,7 +2,7 @@
   <img alt="agile innova logo" src="https://res.cloudinary.com/dpkaiokho/image/upload/v1659551398/Agile%20Innova/logos/Agile_blanco-bg_ucfvmw.png" width="224px"/><br/>
   Explorer Course
 </h1>
-<p align="center">¡Bienvenido a nuestro Explorer Course 😊, desde Agile Innova Academy estamos muy a gusto en que seas parte de nuestra comunidad Agilers!</p>
+<p align="center">¡Bienvenido a nuestro Explorer Course 😊, desde Campus Virtual Academy estamos muy a gusto en que seas parte de nuestra comunidad Agilers!</p>
 
 ![home_explorer_course_desktop](./assets/home_explorer_course_desktop.png)
 

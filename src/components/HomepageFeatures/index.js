@@ -5,11 +5,11 @@ import Link from "@docusaurus/Link";
 
 const FeatureList = [
   {
-    title: "Registrate en Agile Innova Academy",
+    title: "Registrate en Campus Virtual Academy",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        Al ingresar a nuestra comunidad de Agile Innova Academy quedarás
+        Al ingresar a nuestra comunidad de Campus Virtual Academy quedarás
         inscrito oficialmente al Explorer Course y podrás acceder a nuestro
         canal oficial de Slack
       </>
@@ -34,7 +34,7 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        Al registrarte en Agile Innova Academy vas a tener acceso al "Explorer
+        Al registrarte en Campus Virtual Academy vas a tener acceso al "Explorer
         Challenge", en este evaluamos los conceptos que aprendiste en el curso y
         es tu carta de entrada para GANARTE una BECA en nuestra Academia.
       </>

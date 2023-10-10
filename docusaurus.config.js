@@ -143,7 +143,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://agileinnova.org/academy" target="_blank" >Agile Innova Academy</a>. Realizado por <a href="https://agileinnova.org/" target="_blank" >Agile Innova.</a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://agileinnova.org/academy" target="_blank" >Campus Virtual Academy</a>. Realizado por <a href="https://agileinnova.org/" target="_blank" >Agile Innova.</a>`,
       },
       prism: {
         theme: lightCodeTheme,

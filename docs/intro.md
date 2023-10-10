@@ -4,7 +4,7 @@ title: 👋🏼 Bienvenid@
 ---
 # 👋🏼 Bienvenid@ al contenido público del Explorer Course 
 
-<h3 align="center"><strong>¡Bienvenido a nuestro Explorer Course 😊,  desde Agile Innova Academy estamos muy a gusto en que seas parte de nuestra comunidad Agilers !</strong></h3>
+<h3 align="center"><strong>¡Bienvenido a nuestro Explorer Course 😊,  desde Campus Virtual Academy estamos muy a gusto en que seas parte de nuestra comunidad Agilers !</strong></h3>
 
 # 🎯 Objetivo del curso:
 
@@ -27,9 +27,9 @@ En el contenido del curso vas a encontrar **Homeworks** con el fin de poner en p
 
 ## 🎖 Explorer Challenge
 
-Para **Agile Innova Academy** es muy importante que puedas sustentar que posees los **conocimientos esenciales en programación** haciendo uso de JavaScript y **nociones de maquetación y diseño web** con HTML y CSS. 
+Para **Campus Virtual Academy** es muy importante que puedas sustentar que posees los **conocimientos esenciales en programación** haciendo uso de JavaScript y **nociones de maquetación y diseño web** con HTML y CSS. 
 
-Para cumplir con esto diseñamos nuestro **Explorer Challenge**, al cual vas a poder acceder registrándote en nuestra **plataforma de Agile Innova Academy** y el cual debes presentar para continuar en la oferta de nuestros cursos especializados y/o aplicar a nuestras becas.
+Para cumplir con esto diseñamos nuestro **Explorer Challenge**, al cual vas a poder acceder registrándote en nuestra **plataforma de Campus Virtual Academy** y el cual debes presentar para continuar en la oferta de nuestros cursos especializados y/o aplicar a nuestras becas.
 
 # ✅ ¿ Cómo crear `Issues` para realizar tus entregas ?
 
